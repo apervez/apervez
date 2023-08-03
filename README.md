@@ -1,4 +1,4 @@
-### Hi there 👋 . I am a financial data specialist currently working in:
+### Hi there 👋 . I am a financial data specialist currently working with:
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="background: white; color: black"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas/static/img/pandas.svg" style="background: white; color: black"></code>
