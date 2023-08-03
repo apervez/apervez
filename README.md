@@ -8,4 +8,3 @@
 <code><img height="50" src="https://matplotlib.org/_static/logo2.svg" style="background: white; color: black"></code>
 <code><img height="40" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></code>
 <code><img height="40" src="https://images.plot.ly/logo/new-branding/plotly-logomark.png"></code>
-<code><img height="40" src="https://dash.plotly.com/assets/images/logo-dash.png"></code>
