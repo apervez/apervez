@@ -1,10 +1,10 @@
 ### Hi there 👋 . I am a financial data specialist currently working in:
 
-<code><img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="100" src="https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas/static/img/pandas.svg"></code>
-<code><img height="50" src="https://numpy.org/doc/stable/_static/numpylogo.svg"></code>
-<code><img height="50" src="https://matplotlib.org/_static/logo2.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/aws/aws-sdk-js/main/assets/aws-logo.svg"></code>
+<code><img height="75" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="75" src="https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas/static/img/pandas.svg"></code>
+<code><img height="75" src="https://numpy.org/doc/stable/_static/numpylogo.svg"></code>
+<code><img height="75" src="https://matplotlib.org/_static/logo2.svg"></code>
+<code><img height="75" src="https://raw.githubusercontent.com/aws/aws-sdk-js/main/assets/aws-logo.svg"></code>
 
 
 <!--
