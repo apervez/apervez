@@ -4,8 +4,7 @@
 <code><img height="75" src="https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas/static/img/pandas.svg"></code>
 <code><img height="75" src="https://numpy.org/doc/stable/_static/numpylogo.svg"></code>
 <code><img height="75" src="https://matplotlib.org/_static/logo2.svg"></code>
-<code><img height="75" src="https://raw.githubusercontent.com/aws/aws-sdk-js/main/assets/aws-logo.svg"></code>
-
+<code><img height="50" src="https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/PB_AWS_logo_RGB_REV_SQ.5bf0e2a6428d9249472976c6b34a76b0bceef46c.png"></code>
 
 <!--
 **apervez/apervez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
